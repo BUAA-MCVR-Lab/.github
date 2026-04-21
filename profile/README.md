@@ -15,6 +15,7 @@ BUAA MCVR 实验室共享信息
 ## 3. 其他共享材料
 
 - 原则上，本项目中应该收录实验室成员发布的开源软件与算法。
+  - 详见：[https://github.com/BUAA-MCVR-Lab/Open-Source-Projects](https://github.com/BUAA-MCVR-Lab/Open-Source-Projects)
   - 如果实验室的朋友们有想要公开的自己 public 项目，欢迎联系管理员为我们的共享与整理事业添砖加瓦。
 - 对于实验室内部的共享材料，我们也会以 private 项目的形式收录。
   - 例如一些尚未发表但有共享意义的项目、一些实验室专有的数据集等等。
