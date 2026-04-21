@@ -11,6 +11,7 @@ BUAA MCVR 实验室共享信息
 
 - [https://vr-pan-junjun.github.io/](https://vr-pan-junjun.github.io/)
 - 其中可以查询实验室论文，实验室人员以及去向等等，如需更新请联系官方网站管理员 `premierbob@qq.com (GGN_2015)`。
+  - 实验室已发表且可公开的论文：[https://vr-pan-junjun.github.io/publication/](https://vr-pan-junjun.github.io/publication/)
 
 ## 3. 其他共享材料
 
